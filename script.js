@@ -1,2 +1,2 @@
-let titulo = document.getElementById("titulo");
-titulo.textContent("¡Manipulación del DOM!");
+let titulo = document.getElementById("titulo")
+titulo.textContent("¡Manipulación del DOM!")
